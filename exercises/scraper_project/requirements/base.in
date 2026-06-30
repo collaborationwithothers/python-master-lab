@@ -1,0 +1,6 @@
+# requirements/base.in
+# This file contains the base dependencies for the project.
+
+beautifulsoup4==4.12.3
+requests==2.32.3
+schedule==1.2.1

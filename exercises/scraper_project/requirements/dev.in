@@ -1,0 +1,6 @@
+# requirements/dev.in
+# This file contains the development dependencies for the project.
+
+-r base.in
+pytest==8.2.2
+black==24.4.2
