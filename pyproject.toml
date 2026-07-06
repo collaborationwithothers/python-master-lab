@@ -3,5 +3,6 @@ name = "python-master-lab"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
+    "memory-profiler>=0.61.0",
     "pytest>=9.1.1",
 ]
